@@ -13,12 +13,14 @@ $navbar-default-bg: black;
   height: 300px;
 }
 
-.jumbotron h1, h2 {
-  color: #fff;
-  text-align: center;
-  margin-bottom: 30px;
-  letter-spacing: -1px;
-  font-weight: bold;
+.jumbotron  {
+  h1,h2 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: -1px;
+    font-weight: bold;
+  }
 }
 
 .stroke {
@@ -51,7 +53,7 @@ $navbar-default-bg: black;
   text-decoration: none;
 }
 
-footer h2{
-  color: black;
-  background-color: white;
+footer h1, footer h2 {
+  text-align: center;
+  font-size: 0.75em;
 }
