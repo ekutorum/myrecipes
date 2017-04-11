@@ -13,3 +13,38 @@
  *= require_tree .
  *= require_self
  */
+
+@font-face {
+  font-family: "Lobster Regular";
+  src: url(/assets/Lobster-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Pacifico Regular";
+  src: url(/assets/Pacifico-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "AbrilFatface Regular";
+  src: url(/assets/AbrilFatface-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Rubik Regular";
+  src: url(/assets/Rubik-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Rubik Light";
+  src: url(/assets/Rubik-Light.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "FrancoisOne Regular";
+  src: url(/assets/FrancoisOne-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Exo Light";
+  src: url(/assets/Exo-Light.ttf) format("truetype");
+}
